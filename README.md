@@ -1,2 +1,2 @@
 # CMPE256Project
-Stream games recommendation
+Steam games recommendation
